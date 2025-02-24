@@ -328,7 +328,7 @@
                         s.jsx)("a", {
                             href: "/",
                             className: "hover:underline",
-                            children: "Gengar Scanner™"
+                            children: "KXZ Project™"
                         }), ". All Rights Reserved."]
                     })
                 })
@@ -448,7 +448,7 @@
                 s.jsx)(o(), {
                     children: (0,
                     s.jsx)("title", {
-                        children: "Gengar"
+                        children: "KXZ Project"
                     })
                 }), (0,
                 s.jsx)(r.Z, {}), (0,
