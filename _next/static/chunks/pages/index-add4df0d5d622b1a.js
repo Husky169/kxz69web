@@ -299,9 +299,6 @@
         "use strict";
         t.Z = {
             src: "/_next/logo.png",
-            height: 1080,
-            width: 1080,
-
         }
     },
     4801: function(e, t, a) {
