@@ -299,11 +299,11 @@
         "use strict";
         t.Z = {
             src: "/_next/logo.png",
+            height: 128,
+            width: 112,
             blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAhFBMVEX////m5fDe3uuop88AADX////a2en+/v7///////////8AAKL+/v7+/v7+/v7////9/f39/f38/P38/P1HQa7+/v4AAKX+/v5kYbX+/v7////+/v7+/v78/P3+/v7+/v4AAKU4MKv///9OSa/9/f1fW7P////////////////+/v79/f6QxtYlAAAAKXRSTlMAAAAAAAEHFSwtLzAzOUFEVVZYXWRxdXd8g4WGiImKkaS5v9LU2eHr7cTDiXoAAABHSURBVHjaFcvFAYAwAAPA4FrcC8Ut7L8f8L+DBdF2UjlAyZvPZiPkmfquaUAy04JpLtAz16t1byB4JfFyeED94wH4uhoj4AXIuQWFWzTILgAAAABJRU5ErkJggg==",
             blurWidth: 8,
             blurHeight: 8
-            height: 1080,
-            width: 1080,
         }
     },
     4801: function(e, t, a) {
