@@ -1819,7 +1819,7 @@
                 v.jsx)(P(), {
                     children: (0,
                     v.jsx)("title", {
-                        children: "Gengar"
+                        children: "KXZ Project"
                     })
                 }), (0,
                 v.jsxs)(NextAuthProvider, {
